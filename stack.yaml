@@ -11,7 +11,7 @@ packages:
   - ./persistent-qq
 
 extra-deps:
-  # - attoparsec-aeson-2.1.0.0
+  - attoparsec-aeson-2.1.0.0
   - postgresql-libpq-0.11.0.0
   - postgresql-libpq-configure-0.11
   - postgresql-simple-0.7.0.0
